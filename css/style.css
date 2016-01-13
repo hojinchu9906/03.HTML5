@@ -48,6 +48,11 @@ article h2{ position: absolute; top:350px; right: 0px;
 article:hover h2{ opacity: 0.8;}
 article strong img {height: 300px; widht: auto;}
 
+/* copyright*/
+.copyright { position: fixed; bottom:20px; right:30px;
+            font:12px/1.5 arial; letter-spacing:4px;
+            color: #999; text-align:center;}
+
 
 
 
